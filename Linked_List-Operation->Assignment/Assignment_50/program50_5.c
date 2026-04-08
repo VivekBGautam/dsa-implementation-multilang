@@ -1,4 +1,4 @@
-// Q - Write a program which Chech wether List is shorted  -  02/01/2026  
+// Q - Write a program which Chech wether List is shorted  -  02/01/2026 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 //
